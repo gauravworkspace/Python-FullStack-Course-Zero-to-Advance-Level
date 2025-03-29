@@ -1,7 +1,7 @@
 # Write a program to add two numbers entered by the user.
 
-num1 = input("Enter First Number : ")
-num2 = input("Enter Second Number : ")
+num1 = int(input("Enter First Number : "))
+num2 = int(input("Enter Second Number : "))
 
 result = num1  + num2 
 

@@ -1,0 +1,36 @@
+Here are 30 programming problems that focus specifically on functions in Python:
+
+### Functions Problems:
+
+1. **Write a function to calculate the factorial of a number.**
+2. **Write a function to check if a number is prime.**
+3. **Write a function to find the largest of three numbers.**
+4. **Write a function to calculate the area of a circle.**
+5. **Write a function to calculate the sum of all numbers in a list.**
+6. **Write a function to find the average of a list of numbers.**
+7. **Write a function to return the reverse of a string.**
+8. **Write a function to check if a string is a palindrome.**
+9. **Write a function to count the occurrences of a character in a string.**
+10. **Write a function to check if a number is even or odd.**
+11. **Write a function to convert temperature from Celsius to Fahrenheit.**
+12. **Write a function to calculate the factorial of a number iteratively.**
+13. **Write a function to generate the Fibonacci sequence up to a specified number.**
+14. **Write a function to find the maximum number in a list.**
+15. **Write a function to sort a list of numbers.**
+16. **Write a function to remove duplicates from a list.**
+17. **Write a function to merge two lists.**
+18. **Write a function to find the common elements between two lists.**
+19. **Write a function to calculate the power of a number.**
+20. **Write a function to check if a number is a perfect square.**
+21. **Write a function to generate a multiplication table for a number.**
+22. **Write a function to count the number of vowels in a string.**
+23. **Write a function to check if a given year is a leap year.**
+24. **Write a function to find the length of a string without using the built-in `len()` function.**
+25. **Write a function to find the greatest common divisor (GCD) of two numbers.**
+26. **Write a function to find the least common multiple (LCM) of two numbers.**
+27. **Write a function to convert a number from decimal to binary.**
+28. **Write a function to capitalize the first letter of each word in a string.**
+29. **Write a function to find the sum of all even numbers in a list.**
+30. **Write a function to find the sum of all odd numbers in a list.**
+
+These problems focus on basic to intermediate functions and will help you build a strong foundation in Python.
